@@ -1,0 +1,1 @@
+This is a template for future HTML canvas projects that will involve this bubble effect.
